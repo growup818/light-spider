@@ -1,0 +1,5 @@
+com\spider\gather\service\MsgProducer.class
+com\spider\gather\constants\ResponseVo.class
+com\spider\gather\controller\BaseController.class
+com\spider\gather\handler\ExceptionResolver.class
+com\spider\gather\constants\WebStatusEnum.class
